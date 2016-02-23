@@ -1,0 +1,23 @@
+{
+  "name": "angular-mapbox",
+  "version": "1.0.0",
+  "description": "A MapBox directive for angular.",
+  "main": "angular-mapbox.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samheutmaker/angular-mapbox.git"
+  },
+  "keywords": [
+    "angular",
+    "mapbox"
+  ],
+  "author": "samheutmaker@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samheutmaker/angular-mapbox/issues"
+  },
+  "homepage": "https://github.com/samheutmaker/angular-mapbox#readme"
+}
